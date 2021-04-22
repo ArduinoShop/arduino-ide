@@ -43,9 +43,25 @@ export class BoardsAutoInstaller implements FrontendApplicationContribution {
         if (selectedBoard && !this.notifications.find(board => Board.sameAs(board, selectedBoard))) {
             this.notifications.push(selectedBoard);
             this.boardsService.search({}).then(packages => {
-                const candidates = packages
-                    .filter(pkg => BoardsPackage.contains(selectedBoard, pkg))
-                    .filter(({ installable, installedVersion }) => installable && !installedVersion);
+
+                // filter packagesForBoard selecting matches from the cli (installed packages)
+                // and matches based on the board name
+                // NOTE: this ensures the Deprecated & new packages are all in the array
+                // so that we can check if any of the valid packages is already installed
+                const packagesForBoard = packages.filter(pkg => BoardsPackage.contains(selectedBoard, pkg) || pkg.boards.some(board => board.name === selectedBoard.name));
+
+                // check if one of the packages for the board is already installed. if so, no hint
+                if (packagesForBoard.some(({ installedVersion }) => !!installedVersion)) { return; }
+
+                // filter the installable (not installed) packages,
+                // then sort in order to prefer those that are NON deprecated
+                const candidates = packagesForBoard
+                    .filter(({ installable, installedVersion }) => installable && !installedVersion)
+                    .sort((pkg1, pkg2) => {
+                        const pkg1BrdLen = pkg1.boards.filter(brd => brd.name === selectedBoard.name).length;
+                        const pkg2BrdLen = pkg2.boards.filter(brd => brd.name === selectedBoard.name).length;
+                        return pkg2BrdLen - pkg1BrdLen;
+                    });
                 const candidate = candidates[0];
                 if (candidate) {
                     // tslint:disable-next-line:max-line-length
