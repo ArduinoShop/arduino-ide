@@ -1,0 +1,443 @@
+2022-05-23 06:30:47 Using browser-only version of superagent in non-browser environment
+2022-05-23 06:30:47 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2022-05-23 06:30:47 root INFO Configuration directory URI: 'file:///home/ide2/.theia'
+2022-05-23 06:30:47 root INFO Theia app listening on http://localhost:46819.
+2022-05-23 06:30:47 root WARN The local plugin referenced by local-dir:/home/ide2/.arduinoIDE/plugins does not exist.
+2022-05-23 06:30:47 root WARN The local plugin referenced by local-dir:/home/ide2/.arduinoIDE/extensions does not exist.
+2022-05-23 06:30:47 root WARN The local plugin referenced by local-dir:/home/ide2/.arduinoProIDE/plugins does not exist.
+2022-05-23 06:30:47 root WARN Backend LocalizationBackendContribution.initialize is slow, took: 53.3 ms
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@0.3.10" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.2" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2022-05-23 06:30:47 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 06:30:47 root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2022-05-23 06:30:47 root INFO Deploying backend plugin "cortex-debug@0.3.10" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/cortex-debug/extension/dist/extension"
+2022-05-23 06:30:47 root WARN Backend DefaultWorkspaceServer.onStart is slow, took: 81.8 ms
+2022-05-23 06:30:47 root INFO Deploying backend plugin "vscode-arduino-tools@0.0.2-beta.2" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle"
+2022-05-23 06:30:47 root INFO Deploying backend plugin "cpp@1.52.1" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-builtin-cpp/extension"
+2022-05-23 06:30:47 root INFO Deploying backend plugin "json@1.46.1" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-builtin-json/extension"
+2022-05-23 06:30:47 root INFO Deploying backend plugin "json-language-features@1.46.1" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain"
+2022-05-23 06:30:48 root INFO Deploying backend plugin "vscode-language-pack-de@1.53.2" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-language-pack-de/extension"
+2022-05-23 06:30:48 root INFO Deploying backend plugin "vscode-language-pack-fr@1.53.2" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-language-pack-fr/extension"
+2022-05-23 06:30:48 daemon INFO Starting daemon from /tmp/.mount_arduin57j7EP/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2022-05-23 06:30:48 root WARN Backend ConfigServiceImpl.onStart is slow, took: 398.2 ms
+2022-05-23 06:30:48 root INFO Deploying backend plugin "vscode-language-pack-ja@1.53.2" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-language-pack-ja/extension"
+2022-05-23 06:30:48 daemon INFO Using config file: /home/ide2/.arduinoIDE/arduino-cli.yaml
+2022-05-23 06:30:48 daemon INFO arduino-cli version 0.21.0
+2022-05-23 06:30:48 daemon INFO Executing `arduino-cli daemon`
+2022-05-23 06:30:48 daemon INFO Setting up Prometheus metrics on :9090/metrics
+2022-05-23 06:30:48 daemon INFO {"IP":"127.0.0.1","Port":"44313"}
+2022-05-23 06:30:48 daemon INFO Daemon is running.
+2022-05-23 06:30:48 root WARN Backend AuthenticationServiceImpl.onStart is slow, took: 104.0 ms
+2022-05-23 06:30:48 root INFO Deploying backend plugin "vscode-language-pack-nl@1.48.3" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-language-pack-nl/extension"
+2022-05-23 06:30:48 root INFO Deploying backend plugin "vscode-language-pack-tr@1.53.2" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-language-pack-tr/extension"
+2022-05-23 06:30:49 root INFO Deploying backend plugin "vscode-language-pack-zh-hans@1.53.2" from "/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-language-pack-zh-hans/extension"
+2022-05-23 06:30:49 root INFO Deploy plugins list took: 1768.4 ms
+2022-05-23 06:30:51 daemon INFO Adding libraries dir [dir: /home/ide2/Arduino/libraries, location: user]
+2022-05-23 06:30:51 daemon INFO URL: https://downloads.arduino.cc/packages/package_index.json
+2022-05-23 06:30:51 daemon INFO Updating index [url: https://downloads.arduino.cc/packages/package_index.json]
+2022-05-23 06:30:51 root INFO Git askpass helper is listening on http://127.0.0.1:42023.
+2022-05-23 06:30:51 root INFO Using Git [2.34.1] from the PATH. (/usr/bin/git)
+2022-05-23 06:30:51 root WARN Frontend s.configure is slow, took: 189.2 ms
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/body-parser
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/cookie
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/dompurify
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/express
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/fs-extra
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/lodash.debounce
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/lodash.throttle
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/markdown-it
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/react
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/react-dom
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/react-virtualized
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/route-parser
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/safer-buffer
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/ws
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/yargs
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/monaco
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/editor
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/multer
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/rimraf
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/tar-fs
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/uuid
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/navigator
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/p-queue
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/preferences
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/editor-preview
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/keymaps
+2022-05-23 06:30:51 root WARN Failed to resolve module: @theia/messages
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/diff
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/mime
+2022-05-23 06:30:51 root WARN Failed to resolve module: filenamify
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/request
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/atob
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/auth0-js
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/btoa
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/dateformat
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/deepmerge
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/glob
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/google-protobuf
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/js-yaml
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/keytar
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/ncp
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/node-fetch
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/ps-tree
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/react-select
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/react-tabs
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/temp
+2022-05-23 06:30:51 root WARN Failed to resolve module: @types/which
+2022-05-23 06:30:51 root INFO Updating index: package_index.json completed.
+2022-05-23 06:30:51 root WARN Frontend keybindings.onStart is slow, took: 333.6 ms
+2022-05-23 06:30:51 root INFO Updating index: package_index.json.sig completed.
+2022-05-23 06:30:51 daemon INFO Checking signature [error: opening signature file: open /tmp/215538426.sig: no such file or directory, index: /tmp/215538426, signaturefile: /tmp/215538426.sig]
+2022-05-23 06:30:51 daemon INFO URL: https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.json
+2022-05-23 06:30:51 daemon INFO Updating index [url: https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.json]
+2022-05-23 06:30:52 root INFO Updating index: package_lgt8fx_index.json completed.
+2022-05-23 06:30:52 daemon INFO Checking signature [error: opening signature file: open /tmp/036149820.sig: no such file or directory, index: /tmp/036149820, signaturefile: /tmp/036149820.sig]
+2022-05-23 06:30:52 daemon INFO Updating libraries index
+2022-05-23 06:30:53 root INFO Updating index: library_index.json.gz completed.
+2022-05-23 06:30:53 root INFO Updating index: library_index.json.sig completed.
+2022-05-23 06:30:53 root ERROR d.registerSchemas is taking more than 500.0 ms, new schemas are ignored.
+2022-05-23 06:30:53 daemon INFO Checking signature [index: /home/ide2/.arduino15/package_index.json, signaturefile: /home/ide2/.arduino15/package_index.json.sig, trusted: true]
+2022-05-23 06:30:53 daemon INFO Checking signature [error: opening signature file: open /home/ide2/.arduino15/package_lgt8fx_index.json.sig: no such file or directory, index: /home/ide2/.arduino15/package_lgt8fx_index.json, signaturefile: /home/ide2/.arduino15/package_lgt8fx_index.json.sig]
+2022-05-23 06:30:53 daemon INFO Loading hardware from: /home/ide2/.arduino15/packages
+2022-05-23 06:30:53 daemon INFO Loading package LGT8fx Boards from: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware
+2022-05-23 06:30:53 daemon INFO Checking signature [error: opening signature file: open /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/installed.json.sig: no such file or directory, index: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/installed.json, signaturefile: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/installed.json.sig]
+2022-05-23 06:30:53 daemon INFO Adding monitor tool [protocol: serial, tool: builtin:serial-monitor]
+2022-05-23 06:30:53 daemon INFO Loaded platform [platform: {ID:"LGT8fx Boards:avr",Installed:"1.0.6",Latest:"1.0.6",Name:"LGT8fx Boards"}]
+2022-05-23 06:30:53 daemon INFO Loading package arduino from: /home/ide2/.arduino15/packages/arduino/hardware
+2022-05-23 06:30:53 daemon INFO Checking signature [error: opening signature file: open /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig: no such file or directory, index: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json, signaturefile: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig]
+2022-05-23 06:30:53 daemon INFO Adding monitor tool [protocol: serial, tool: builtin:serial-monitor]
+2022-05-23 06:30:53 daemon INFO Loaded platform [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-23 06:30:53 daemon INFO Checking existence of 'tools' path: /home/ide2/.arduino15/packages/arduino/tools
+2022-05-23 06:30:53 daemon INFO Loading tools from dir: /home/ide2/.arduino15/packages/arduino/tools
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 1.3.0 Systems: [OS: i686-linux-gnu, OS: x86_64-linux-gnu, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: i386-apple-darwin11, OS: i686-mingw32]]
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 7.3.0-atmel3.6.1-arduino7 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin14, OS: i686-mingw32, OS: i686-linux-gnu, OS: x86_64-linux-gnu]]
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 6.3.0-arduino17 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin12, OS: x86_64-linux-gnu, OS: i686-linux-gnu, OS: i686-mingw32]]
+2022-05-23 06:30:53 daemon INFO Loading package builtin from: /home/ide2/.arduino15/packages/builtin
+2022-05-23 06:30:53 daemon INFO Checking existence of 'tools' path: /home/ide2/.arduino15/packages/builtin/tools
+2022-05-23 06:30:53 daemon INFO Loading tools from dir: /home/ide2/.arduino15/packages/builtin/tools
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 1.2.1]
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-23 06:30:53 daemon INFO Loaded tool [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-23 06:30:53 daemon INFO Adding libraries dir [dir: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries, location: platform]
+2022-05-23 06:30:53 daemon INFO Adding libraries dir [dir: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/libraries, location: platform]
+2022-05-23 06:30:54 daemon INFO starting discovery builtin:serial-discovery process
+2022-05-23 06:30:54 daemon INFO starting discovery builtin:mdns-discovery process
+2022-05-23 06:30:54 daemon INFO started discovery builtin:serial-discovery process
+2022-05-23 06:30:54 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:serial-discovery
+2022-05-23 06:30:54 daemon INFO started discovery builtin:mdns-discovery process
+2022-05-23 06:30:54 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:mdns-discovery
+2022-05-23 06:30:54 daemon INFO from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1
+2022-05-23 06:30:54 daemon INFO from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1
+2022-05-23 06:30:54 daemon INFO sending command START_SYNC to discovery builtin:mdns-discovery
+2022-05-23 06:30:54 daemon INFO sending command START_SYNC to discovery builtin:serial-discovery
+2022-05-23 06:30:54 daemon INFO from discovery builtin:mdns-discovery received message type: start_sync, message: OK
+2022-05-23 06:30:54 daemon INFO from discovery builtin:serial-discovery received message type: start_sync, message: OK
+2022-05-23 06:30:54 daemon INFO from discovery builtin:serial-discovery received message type: add, port: /dev/ttyS0
+2022-05-23 06:30:54 root WARN Frontend i.onStart is slow, took: 2728.2 ms
+2022-05-23 06:30:54 root INFO Board config changed: 
+2022-05-23 06:30:54 root INFO Board config changed: 
+2022-05-23 06:30:54 root INFO Changed application state from 'init' to 'started_contributions'.
+2022-05-23 06:30:54 root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-05-23 06:30:54 root INFO >>> Restoring the layout state...
+2022-05-23 06:30:54 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65] Waiting for backend deployment took: 262.7 ms [Finished 5.769 s after frontend start]
+2022-05-23 06:30:54 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802) starting instance
+2022-05-23 06:30:55 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65] Sync of 11 plugins took: 563.1 ms [Finished 6.332 s after frontend start]
+2022-05-23 06:30:56 root INFO <<< The layout has been successfully restored.
+2022-05-23 06:30:56 root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][marus25.cortex-debug]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][vscode.cpp]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][vscode.json]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][vscode.json-language-features]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-05-23 06:30:56 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65] Load contributions of 11 plugins took: 113.8 ms [Finished 7.620 s after frontend start]
+2022-05-23 06:30:56 root WARN Frontend u.onDidInitializeLayout is slow, took: 114.9 ms
+2022-05-23 06:30:56 root INFO Finished loading frontend application after 7.677 seconds
+2022-05-23 06:30:56 root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-05-23 06:30:56 root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): PluginManagerExtImpl/init()
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(cortex-debug@0.3.10 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] Debugger contribution has been registered: cortex-debug
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-arduino-tools@0.0.2-beta.2 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(cpp@1.52.1 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(json@1.46.1 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(json-language-features@1.46.1 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-language-pack-de@1.53.2 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-language-pack-fr@1.53.2 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-language-pack-ja@1.53.2 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-language-pack-nl@1.48.3 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-language-pack-tr@1.53.2 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): initializing(vscode-language-pack-zh-hans@1.53.2 with /tmp/.mount_arduin57j7EP/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): PluginManagerExtImpl/loadPlugin(/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-05-23 06:30:57 root INFO [hosted-plugin: 10802] PLUGIN_HOST(10802): PluginManagerExtImpl/loadPlugin(/tmp/.mount_arduin57j7EP/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][marus25.cortex-debug]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][arduino.vscode-arduino-tools]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][vscode.cpp]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][vscode.json]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][vscode.json-language-features]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-05-23 06:30:57 root INFO [b244862f-5be0-4ce5-8b69-65a738785a65] Start of 11 plugins took: 674.8 ms [Finished 8.300 s after frontend start]
+2022-05-23 06:30:57 root INFO Starting language server: arduino:avr:uno
+2022-05-23 06:30:57 root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-05-23 06:30:57 daemon INFO inventory.Store.ConfigFileUsed() /home/ide2/.arduino15/inventory.yaml
+2022-05-23 06:30:57 daemon INFO inventory.Store.ConfigFileUsed() /home/ide2/.arduino15/inventory.yaml
+2022-05-23 06:30:57 daemon INFO Searching tools required for board arduino:avr:uno
+2022-05-23 06:30:57 daemon INFO Required tool [tool: {ToolName:"arduinoOTA",ToolVersion:"1.3.0",ToolPackager:"arduino"}]
+2022-05-23 06:30:57 daemon INFO Required tool [tool: {ToolName:"avr-gcc",ToolVersion:"7.3.0-atmel3.6.1-arduino7",ToolPackager:"arduino"}]
+2022-05-23 06:30:57 daemon INFO Required tool [tool: {ToolName:"avrdude",ToolVersion:"6.3.0-arduino17",ToolPackager:"arduino"}]
+2022-05-23 06:30:57 daemon INFO Adding libraries dir [dir: /home/art/Downloads/arduino-1.8.10/libraries, location: ide]
+2022-05-23 06:30:57 daemon INFO Adding libraries dir [dir: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries, location: platform]
+2022-05-23 06:30:57 daemon INFO Adding libraries dir [dir: /home/ide2/Arduino/libraries, location: user]
+2022-05-23 06:30:58 root WARN monospace assumptions have been violated, therefore disabling monospace optimizations!
+2022-05-23 08:27:01 Using browser-only version of superagent in non-browser environment
+2022-05-23 08:27:01 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2022-05-23 08:27:01 root INFO Configuration directory URI: 'file:///home/ide2/.theia'
+2022-05-23 08:27:01 root INFO Theia app listening on http://localhost:32937.
+2022-05-23 08:27:01 root WARN The local plugin referenced by local-dir:/home/ide2/.arduinoIDE/plugins does not exist.
+2022-05-23 08:27:01 root WARN The local plugin referenced by local-dir:/home/ide2/.arduinoIDE/extensions does not exist.
+2022-05-23 08:27:01 root WARN The local plugin referenced by local-dir:/home/ide2/.arduinoProIDE/plugins does not exist.
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@0.3.10" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.2" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2022-05-23 08:27:01 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-23 08:27:01 root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2022-05-23 08:27:01 root INFO Deploying backend plugin "cortex-debug@0.3.10" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/cortex-debug/extension/dist/extension"
+2022-05-23 08:27:01 root INFO Deploying backend plugin "vscode-arduino-tools@0.0.2-beta.2" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle"
+2022-05-23 08:27:01 root INFO Deploying backend plugin "cpp@1.52.1" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-builtin-cpp/extension"
+2022-05-23 08:27:01 root INFO Deploying backend plugin "json@1.46.1" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-builtin-json/extension"
+2022-05-23 08:27:01 root INFO Deploying backend plugin "json-language-features@1.46.1" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain"
+2022-05-23 08:27:01 root INFO Deploying backend plugin "vscode-language-pack-de@1.53.2" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-language-pack-de/extension"
+2022-05-23 08:27:01 root INFO Deploying backend plugin "vscode-language-pack-fr@1.53.2" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-language-pack-fr/extension"
+2022-05-23 08:27:01 daemon INFO Starting daemon from /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2022-05-23 08:27:01 root WARN Backend ConfigServiceImpl.onStart is slow, took: 260.1 ms
+2022-05-23 08:27:02 root INFO Deploying backend plugin "vscode-language-pack-ja@1.53.2" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-language-pack-ja/extension"
+2022-05-23 08:27:02 daemon INFO Using config file: /home/ide2/.arduinoIDE/arduino-cli.yaml
+2022-05-23 08:27:02 daemon INFO arduino-cli version 0.21.0
+2022-05-23 08:27:02 daemon INFO Executing `arduino-cli daemon`
+2022-05-23 08:27:02 daemon INFO Setting up Prometheus metrics on :9090/metrics
+2022-05-23 08:27:02 daemon INFO {"IP":"127.0.0.1","Port":"33477"}
+2022-05-23 08:27:02 daemon INFO Daemon is running.
+2022-05-23 08:27:02 root WARN Backend AuthenticationServiceImpl.onStart is slow, took: 99.3 ms
+2022-05-23 08:27:02 root INFO Deploying backend plugin "vscode-language-pack-nl@1.48.3" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-language-pack-nl/extension"
+2022-05-23 08:27:02 root INFO Deploying backend plugin "vscode-language-pack-tr@1.53.2" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-language-pack-tr/extension"
+2022-05-23 08:27:02 root INFO Deploying backend plugin "vscode-language-pack-zh-hans@1.53.2" from "/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-language-pack-zh-hans/extension"
+2022-05-23 08:27:02 root INFO Deploy plugins list took: 952.1 ms
+2022-05-23 08:27:03 daemon INFO Adding libraries dir [dir: /home/ide2/Arduino/libraries, location: user]
+2022-05-23 08:27:03 daemon INFO URL: https://downloads.arduino.cc/packages/package_index.json
+2022-05-23 08:27:03 daemon INFO Updating index [url: https://downloads.arduino.cc/packages/package_index.json]
+2022-05-23 08:27:03 root INFO Git askpass helper is listening on http://127.0.0.1:45275.
+2022-05-23 08:27:03 root INFO Using Git [2.34.1] from the PATH. (/usr/bin/git)
+2022-05-23 08:27:04 root WARN Frontend s.configure is slow, took: 190.7 ms
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/body-parser
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/cookie
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/dompurify
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/express
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/fs-extra
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/lodash.debounce
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/lodash.throttle
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/markdown-it
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/react
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/react-dom
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/react-virtualized
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/route-parser
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/safer-buffer
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/ws
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/yargs
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/monaco
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/editor
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/multer
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/rimraf
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/tar-fs
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/uuid
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/navigator
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/p-queue
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/preferences
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/editor-preview
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/keymaps
+2022-05-23 08:27:04 root WARN Failed to resolve module: @theia/messages
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/diff
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/mime
+2022-05-23 08:27:04 root WARN Failed to resolve module: filenamify
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/request
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/atob
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/auth0-js
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/btoa
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/dateformat
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/deepmerge
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/glob
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/google-protobuf
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/js-yaml
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/keytar
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/ncp
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/node-fetch
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/ps-tree
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/react-select
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/react-tabs
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/temp
+2022-05-23 08:27:04 root WARN Failed to resolve module: @types/which
+2022-05-23 08:27:04 root INFO Updating index: package_index.json completed.
+2022-05-23 08:27:04 root WARN Frontend keybindings.onStart is slow, took: 299.2 ms
+2022-05-23 08:27:04 root INFO Updating index: package_index.json.sig completed.
+2022-05-23 08:27:04 daemon INFO Checking signature [error: opening signature file: open /tmp/081664279.sig: no such file or directory, index: /tmp/081664279, signaturefile: /tmp/081664279.sig]
+2022-05-23 08:27:04 daemon INFO URL: https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.json
+2022-05-23 08:27:04 daemon INFO Updating index [url: https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.json]
+2022-05-23 08:27:04 root INFO Updating index: package_lgt8fx_index.json completed.
+2022-05-23 08:27:04 daemon INFO Checking signature [error: opening signature file: open /tmp/707436385.sig: no such file or directory, index: /tmp/707436385, signaturefile: /tmp/707436385.sig]
+2022-05-23 08:27:04 daemon INFO Updating libraries index
+2022-05-23 08:27:05 root INFO Updating index: library_index.json.gz completed.
+2022-05-23 08:27:05 root INFO Updating index: library_index.json.sig completed.
+2022-05-23 08:27:05 root ERROR d.registerSchemas is taking more than 500.0 ms, new schemas are ignored.
+2022-05-23 08:27:05 daemon INFO Checking signature [index: /home/ide2/.arduino15/package_index.json, signaturefile: /home/ide2/.arduino15/package_index.json.sig, trusted: true]
+2022-05-23 08:27:05 daemon INFO Checking signature [error: opening signature file: open /home/ide2/.arduino15/package_lgt8fx_index.json.sig: no such file or directory, index: /home/ide2/.arduino15/package_lgt8fx_index.json, signaturefile: /home/ide2/.arduino15/package_lgt8fx_index.json.sig]
+2022-05-23 08:27:05 daemon INFO Loading hardware from: /home/ide2/.arduino15/packages
+2022-05-23 08:27:05 daemon INFO Loading package LGT8fx Boards from: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware
+2022-05-23 08:27:05 daemon INFO Checking signature [error: opening signature file: open /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/installed.json.sig: no such file or directory, index: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/installed.json, signaturefile: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/installed.json.sig]
+2022-05-23 08:27:06 daemon INFO Adding monitor tool [protocol: serial, tool: builtin:serial-monitor]
+2022-05-23 08:27:06 daemon INFO Loaded platform [platform: {ID:"LGT8fx Boards:avr",Installed:"1.0.6",Latest:"1.0.6",Name:"LGT8fx Boards"}]
+2022-05-23 08:27:06 daemon INFO Loading package arduino from: /home/ide2/.arduino15/packages/arduino/hardware
+2022-05-23 08:27:06 daemon INFO Checking signature [error: opening signature file: open /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig: no such file or directory, index: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json, signaturefile: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig]
+2022-05-23 08:27:06 daemon INFO Adding monitor tool [protocol: serial, tool: builtin:serial-monitor]
+2022-05-23 08:27:06 daemon INFO Loaded platform [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-23 08:27:06 daemon INFO Checking existence of 'tools' path: /home/ide2/.arduino15/packages/arduino/tools
+2022-05-23 08:27:06 daemon INFO Loading tools from dir: /home/ide2/.arduino15/packages/arduino/tools
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 1.3.0 Systems: [OS: i686-linux-gnu, OS: x86_64-linux-gnu, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: i386-apple-darwin11, OS: i686-mingw32]]
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 7.3.0-atmel3.6.1-arduino7 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin14, OS: i686-mingw32, OS: i686-linux-gnu, OS: x86_64-linux-gnu]]
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 6.3.0-arduino17 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin12, OS: x86_64-linux-gnu, OS: i686-linux-gnu, OS: i686-mingw32]]
+2022-05-23 08:27:06 daemon INFO Loading package builtin from: /home/ide2/.arduino15/packages/builtin
+2022-05-23 08:27:06 daemon INFO Checking existence of 'tools' path: /home/ide2/.arduino15/packages/builtin/tools
+2022-05-23 08:27:06 daemon INFO Loading tools from dir: /home/ide2/.arduino15/packages/builtin/tools
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 1.2.1]
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-23 08:27:06 daemon INFO Loaded tool [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-23 08:27:06 daemon INFO Adding libraries dir [dir: /home/ide2/.arduino15/packages/LGT8fx Boards/hardware/avr/1.0.6/libraries, location: platform]
+2022-05-23 08:27:06 daemon INFO Adding libraries dir [dir: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries, location: platform]
+2022-05-23 08:27:06 daemon INFO starting discovery builtin:serial-discovery process
+2022-05-23 08:27:06 daemon INFO starting discovery builtin:mdns-discovery process
+2022-05-23 08:27:06 daemon INFO started discovery builtin:serial-discovery process
+2022-05-23 08:27:06 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:serial-discovery
+2022-05-23 08:27:06 daemon INFO started discovery builtin:mdns-discovery process
+2022-05-23 08:27:06 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:mdns-discovery
+2022-05-23 08:27:06 daemon INFO from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1
+2022-05-23 08:27:06 daemon INFO from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1
+2022-05-23 08:27:06 daemon INFO sending command START_SYNC to discovery builtin:serial-discovery
+2022-05-23 08:27:06 daemon INFO sending command START_SYNC to discovery builtin:mdns-discovery
+2022-05-23 08:27:06 daemon INFO from discovery builtin:mdns-discovery received message type: start_sync, message: OK
+2022-05-23 08:27:06 daemon INFO from discovery builtin:serial-discovery received message type: start_sync, message: OK
+2022-05-23 08:27:06 daemon INFO from discovery builtin:serial-discovery received message type: add, port: /dev/ttyS0
+2022-05-23 08:27:06 root WARN Frontend i.onStart is slow, took: 2063.7 ms
+2022-05-23 08:27:06 root INFO Board config changed: 
+2022-05-23 08:27:06 root INFO Board config changed: 
+2022-05-23 08:27:06 root INFO Changed application state from 'init' to 'started_contributions'.
+2022-05-23 08:27:06 root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-05-23 08:27:06 root INFO >>> Restoring the layout state...
+2022-05-23 08:27:06 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f] Waiting for backend deployment took: 292.3 ms [Finished 4.583 s after frontend start]
+2022-05-23 08:27:06 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796) starting instance
+2022-05-23 08:27:07 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f] Sync of 11 plugins took: 527.2 ms [Finished 5.111 s after frontend start]
+2022-05-23 08:27:08 root INFO <<< The layout has been successfully restored.
+2022-05-23 08:27:08 root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][marus25.cortex-debug]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][vscode.cpp]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][vscode.json]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][vscode.json-language-features]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f] Load contributions of 11 plugins took: 121.9 ms [Finished 6.190 s after frontend start]
+2022-05-23 08:27:08 root WARN Frontend u.onDidInitializeLayout is slow, took: 122.9 ms
+2022-05-23 08:27:08 root INFO Finished loading frontend application after 6.218 seconds
+2022-05-23 08:27:08 root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-05-23 08:27:08 root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): PluginManagerExtImpl/init()
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(cortex-debug@0.3.10 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] Debugger contribution has been registered: cortex-debug
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-arduino-tools@0.0.2-beta.2 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(cpp@1.52.1 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(json@1.46.1 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(json-language-features@1.46.1 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-language-pack-de@1.53.2 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-language-pack-fr@1.53.2 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-language-pack-ja@1.53.2 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-language-pack-nl@1.48.3 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-language-pack-tr@1.53.2 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): initializing(vscode-language-pack-zh-hans@1.53.2 with /tmp/.mount_arduin9VwhZQ/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): PluginManagerExtImpl/loadPlugin(/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-05-23 08:27:08 root INFO [hosted-plugin: 17796] PLUGIN_HOST(17796): PluginManagerExtImpl/loadPlugin(/tmp/.mount_arduin9VwhZQ/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][marus25.cortex-debug]: Started plugin.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][arduino.vscode-arduino-tools]: Started plugin.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][vscode.cpp]: Started plugin.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][vscode.json]: Started plugin.
+2022-05-23 08:27:08 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][vscode.json-language-features]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-05-23 08:27:09 root INFO [c51197ad-6b56-4b7b-9bc2-4bdbc201ae9f] Start of 11 plugins took: 597.4 ms [Finished 6.796 s after frontend start]
+2022-05-23 08:27:09 root INFO Starting language server: arduino:avr:uno
+2022-05-23 08:27:09 root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-05-23 08:27:09 daemon INFO inventory.Store.ConfigFileUsed() /home/ide2/.arduino15/inventory.yaml
+2022-05-23 08:27:09 daemon INFO inventory.Store.ConfigFileUsed() /home/ide2/.arduino15/inventory.yaml
+2022-05-23 08:27:09 daemon INFO Searching tools required for board arduino:avr:uno
+2022-05-23 08:27:09 daemon INFO Required tool [tool: {ToolName:"arduinoOTA",ToolVersion:"1.3.0",ToolPackager:"arduino"}]
+2022-05-23 08:27:09 daemon INFO Required tool [tool: {ToolName:"avr-gcc",ToolVersion:"7.3.0-atmel3.6.1-arduino7",ToolPackager:"arduino"}]
+2022-05-23 08:27:09 daemon INFO Required tool [tool: {ToolName:"avrdude",ToolVersion:"6.3.0-arduino17",ToolPackager:"arduino"}]
+2022-05-23 08:27:09 daemon INFO Adding libraries dir [dir: /home/art/Downloads/arduino-1.8.10/libraries, location: ide]
+2022-05-23 08:27:09 daemon INFO Adding libraries dir [dir: /home/ide2/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries, location: platform]
+2022-05-23 08:27:09 daemon INFO Adding libraries dir [dir: /home/ide2/Arduino/libraries, location: user]
+2022-05-23 08:27:12 serial-service INFO >>> Disposing serial service...
+2022-05-23 08:27:12 serial-service INFO <<< Disposed serial service.
